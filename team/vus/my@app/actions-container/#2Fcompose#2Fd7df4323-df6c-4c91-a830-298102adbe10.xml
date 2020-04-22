@@ -1,0 +1,88 @@
+<http-page executeResourcesDynamically="false"
+    name="/compose/d7df4323-df6c-4c91-a830-298102adbe10"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/0f33819f-8f92-4e74-81d4-429c7fcef6ce.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0f33819f-8f92-4e74-81d4-429c7fcef6ce">
+    <embedded-action>da0238d6-9eb7-4a4b-89b0-abab94361457</embedded-action>
+    <embedded-action>1fb3c709-085f-42a0-a75d-b26acd1dd9d0</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="image/svg+xml"
+    eTag="&quot;5c3734bf-a35&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/img/user.svg" path="/static/img/user.svg"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/0f33819f-8f92-4e74-81d4-429c7fcef6ce.zip"
+    recordedResponseCode="200" responseSize="2613"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="da0238d6-9eb7-4a4b-89b0-abab94361457" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_da0238d6-9eb7-4a4b-89b0-abab94361457.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_da0238d6-9eb7-4a4b-89b0-abab94361457.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/static/css/style.css"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/svg+xml&#xd;
+Content-Length: 2613&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-a35"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/svg+xml"
+    eTag="&quot;5c3734bf-345&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/flags/4x3/gb.svg"
+    path="/static/flags/4x3/gb.svg" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/0f33819f-8f92-4e74-81d4-429c7fcef6ce.zip"
+    recordedResponseCode="200" responseSize="837"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="1fb3c709-085f-42a0-a75d-b26acd1dd9d0" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_1fb3c709-085f-42a0-a75d-b26acd1dd9d0.xml</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_1fb3c709-085f-42a0-a75d-b26acd1dd9d0.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/static/css/flag-icon.min.css"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/svg+xml&#xd;
+Content-Length: 837&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-345"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

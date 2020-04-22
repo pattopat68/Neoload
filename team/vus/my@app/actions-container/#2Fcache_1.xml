@@ -1,0 +1,43 @@
+<http-page executeResourcesDynamically="false" name="/cache_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/22f5563a-078d-44bd-84aa-46124d1ec5f8.zip"
+    slaProfileEnabled="false" thinkTime="775"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="22f5563a-078d-44bd-84aa-46124d1ec5f8">
+    <embedded-action>67b4a403-e4e6-4bb1-8f4f-3de694846e3b</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="application/json"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/api/get-token/" path="/api/get-token/"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/22f5563a-078d-44bd-84aa-46124d1ec5f8.zip"
+    recordedResponseCode="200" responseSize="53"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="67b4a403-e4e6-4bb1-8f4f-3de694846e3b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_67b4a403-e4e6-4bb1-8f4f-3de694846e3b</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_67b4a403-e4e6-4bb1-8f4f-3de694846e3b.txt</requestContentFileDescription>
+    <header name="Accept" value="application/json, text/plain, */*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="_ga=GA1.2.758774077.1587561713; _gid=GA1.2.916030383.1587561713; _gat_UA-126828887-1=1; SL_C_23361dd035530_VID=1TI-S8SbrxX; SL_C_23361dd035530_KEY=6bd07e1e0b665212f35b2fa803960ed2c60cbd50; csrftoken=rr9PLFHdfDOhZ8GjtW6ASXOFVUtgXalfjHfrb1kVDuELDXO5htTjI4D8DsFNwngT; sessionid=w936ujxjba6897h238k6gpbyhbhq5rpz; SL_C_23361dd035530_SID=LTYlxtsyqzL"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/education/professor/course/6"/>
+    <header name="Sec-Fetch-Dest" value="empty"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:22:26 GMT&#xd;
+Content-Type: application/json&#xd;
+Content-Length: 53&#xd;
+Connection: keep-alive&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Vary: Accept-Language, Cookie&#xd;
+Content-Language: en</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

@@ -1,0 +1,99 @@
+<http-page executeResourcesDynamically="false"
+    name="/education/professor/course/create/_1"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/b95e062d-94f4-4809-bb36-6413bdc3dc3e.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b95e062d-94f4-4809-bb36-6413bdc3dc3e">
+    <embedded-action>67af1c85-6c18-4852-af07-51ba3bd78460</embedded-action>
+    <embedded-action>82173a39-9e6f-463a-9a1b-77b9f0d5a476</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/education/professor/course/create/"
+    path="/education/professor/course/create/" postCharset="iso-8859-1"
+    postType="3"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/b95e062d-94f4-4809-bb36-6413bdc3dc3e.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="67af1c85-6c18-4852-af07-51ba3bd78460" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[LS0tLS0tV2ViS2l0Rm9ybUJvdW5kYXJ5SU90Q0lBdW9wZEl5MkY2cQ0KQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPSJjc3JmbWlkZGxld2FyZXRva2VuIg0KDQpCNnk0cTdBdVhCTHJzNGM2dnVmajkyWHFvUVllZ291SXRtRUdRdGRjbHNCVjZUa1NqMTIyWjlNVDZvYUxQQnBtDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlJT3RDSUF1b3BkSXkyRjZxDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9Im5hbWUiDQoNCk15Q291cnNlDQotLS0tLS1XZWJLaXRGb3JtQm91bmRhcnlJT3RDSUF1b3BkSXkyRjZxDQpDb250ZW50LURpc3Bvc2l0aW9uOiBmb3JtLWRhdGE7IG5hbWU9ImRlc2NyaXB0aW9uIg0KDQoNCi0tLS0tLVdlYktpdEZvcm1Cb3VuZGFyeUlPdENJQXVvcGRJeTJGNnEtLQ0K]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_67af1c85-6c18-4852-af07-51ba3bd78460.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_67af1c85-6c18-4852-af07-51ba3bd78460.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="multipart/form-data; boundary=----WebKitFormBoundaryIOtCIAuopdIy2F6q"/>
+    <header name="Cookie" value="_ga=GA1.2.758774077.1587561713; _gid=GA1.2.916030383.1587561713; _gat_UA-126828887-1=1; SL_C_23361dd035530_VID=1TI-S8SbrxX; SL_C_23361dd035530_KEY=6bd07e1e0b665212f35b2fa803960ed2c60cbd50; csrftoken=rr9PLFHdfDOhZ8GjtW6ASXOFVUtgXalfjHfrb1kVDuELDXO5htTjI4D8DsFNwngT; sessionid=w936ujxjba6897h238k6gpbyhbhq5rpz; SL_C_23361dd035530_SID=LTYlxtsyqzL"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Origin" value="https://app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/education/professor/course/create/"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:22:22 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Location: /education/professor/course/6&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Vary: Accept-Language, Cookie&#xd;
+Content-Language: en</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+    <multiparts>
+        <multipart-string name="csrfmiddlewaretoken" recordRawValue=""
+            value="B6y4q7AuXBLrs4c6vufj92XqoQYegouItmEGQtdclsBV6TkSj122Z9MT6oaLPBpm" valueMode="USE_VALUE"/>
+        <multipart-string name="name" recordRawValue="" value="MyCourse" valueMode="USE_VALUE"/>
+        <multipart-string name="description" recordRawValue="" value="" valueMode="USE_VALUE"/>
+    </multiparts>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/education/professor/course/6"
+    path="/education/professor/course/6" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/b95e062d-94f4-4809-bb36-6413bdc3dc3e.zip"
+    recordedResponseCode="200"
+    refererUid="67af1c85-6c18-4852-af07-51ba3bd78460"
+    responseSize="16969" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="82173a39-9e6f-463a-9a1b-77b9f0d5a476" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_82173a39-9e6f-463a-9a1b-77b9f0d5a476.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_82173a39-9e6f-463a-9a1b-77b9f0d5a476.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="_ga=GA1.2.758774077.1587561713; _gid=GA1.2.916030383.1587561713; _gat_UA-126828887-1=1; SL_C_23361dd035530_VID=1TI-S8SbrxX; SL_C_23361dd035530_KEY=6bd07e1e0b665212f35b2fa803960ed2c60cbd50; csrftoken=rr9PLFHdfDOhZ8GjtW6ASXOFVUtgXalfjHfrb1kVDuELDXO5htTjI4D8DsFNwngT; sessionid=w936ujxjba6897h238k6gpbyhbhq5rpz; SL_C_23361dd035530_SID=LTYlxtsyqzL"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/education/professor/course/create/"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:22:23 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Vary: Accept-Language, Cookie&#xd;
+Content-Language: en&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

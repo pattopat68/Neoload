@@ -1,0 +1,777 @@
+<http-page executeResourcesDynamically="false" name="/"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    slaProfileEnabled="false" thinkTime="802"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="bc4ab309-8ef4-42a7-bb06-6169f194332a">
+    <embedded-action>2d4e65f2-cc57-49c2-8076-22f3d9a2955b</embedded-action>
+    <embedded-action>127a2616-9229-4e30-bb81-d10a1cb9af7e</embedded-action>
+    <embedded-action>b8bd25c8-cfb3-41a0-9dc8-63a081637275</embedded-action>
+    <embedded-action>d20792b5-5465-48d0-bc9f-192bd78fb3e4</embedded-action>
+    <embedded-action>66a0db79-ffe1-44dd-97ec-f1b4e99e490c</embedded-action>
+    <embedded-action>28e363f7-dcac-45a1-b442-6fa1c4bff402</embedded-action>
+    <embedded-action>15266e1f-d4a9-43dd-ab27-b70c09d45d15</embedded-action>
+    <embedded-action>cdd130af-f02e-4b2e-9d12-cb510703eb48</embedded-action>
+    <embedded-action>aec105e9-b164-42fe-91b7-97535ed32728</embedded-action>
+    <embedded-action>558b8569-968b-4d01-8752-4f5d002d3a91</embedded-action>
+    <embedded-action>42fcf6d9-2248-419a-9d84-7e885426e8f7</embedded-action>
+    <embedded-action>5dfa768e-edad-4a8b-a21e-cd55d215c413</embedded-action>
+    <embedded-action>9c2df139-08e6-4745-8710-5de55d0c493a</embedded-action>
+    <embedded-action>43664d5a-25db-4510-a6e9-e890225a1464</embedded-action>
+    <embedded-action>16bee0e4-538a-4d01-ba7b-e383383f9163</embedded-action>
+    <embedded-action>0d0d63c6-3ed1-4643-8c89-8fd32046848b</embedded-action>
+    <embedded-action>225ed530-be14-4bcd-a62d-141cb8ca24e2</embedded-action>
+    <embedded-action>055fe8cb-dbd0-46be-abc9-d17a6ebf1f59</embedded-action>
+    <embedded-action>69eb3ce1-5589-473d-b708-3775efcde835</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/" path="/" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="302" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="2d4e65f2-cc57-49c2-8076-22f3d9a2955b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_2d4e65f2-cc57-49c2-8076-22f3d9a2955b.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2d4e65f2-cc57-49c2-8076-22f3d9a2955b.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 302 Found&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:35 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Content-Length: 0&#xd;
+Connection: keep-alive&#xd;
+Location: /login/?next=/&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Vary: Accept-Language, Cookie&#xd;
+Content-Language: en</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="2" contentType="text/html; charset=utf-8"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/login/" path="/login/" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="2d4e65f2-cc57-49c2-8076-22f3d9a2955b"
+    responseSize="13776" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="127a2616-9229-4e30-bb81-d10a1cb9af7e" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_127a2616-9229-4e30-bb81-d10a1cb9af7e.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_127a2616-9229-4e30-bb81-d10a1cb9af7e.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="false" name="next"
+        recordRawValue="/" separator="=" value="/" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Sec-Fetch-Dest" value="document"/>
+    <header name="Sec-Fetch-Mode" value="navigate"/>
+    <header name="Sec-Fetch-Site" value="none"/>
+    <header name="Sec-Fetch-User" value="?1"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/html; charset=utf-8&#xd;
+Transfer-Encoding: chunked&#xd;
+Connection: keep-alive&#xd;
+X-Frame-Options: SAMEORIGIN&#xd;
+Vary: Cookie, Accept-Language&#xd;
+Content-Language: en&#xd;
+Set-Cookie: csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry; expires=Wed, 21 Apr 2021 13:21:36 GMT; Max-Age=31449600; Path=/; SameSite=Lax&#xd;
+Content-Encoding: gzip</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5c3734bf-27ec&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/chosen.min.css"
+    path="/static/css/chosen.min.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="10220"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="b8bd25c8-cfb3-41a0-9dc8-63a081637275" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_b8bd25c8-cfb3-41a0-9dc8-63a081637275.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b8bd25c8-cfb3-41a0-9dc8-63a081637275.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 10220&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-27ec"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:36 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5c3734bf-841a&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/flag-icon.min.css"
+    path="/static/css/flag-icon.min.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="33818"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="d20792b5-5465-48d0-bc9f-192bd78fb3e4" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_d20792b5-5465-48d0-bc9f-192bd78fb3e4.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_d20792b5-5465-48d0-bc9f-192bd78fb3e4.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 33818&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-841a"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:36 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5c3734bf-781b&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/jquery-ui.min.css"
+    path="/static/css/jquery-ui.min.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="30747"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="66a0db79-ffe1-44dd-97ec-f1b4e99e490c" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_66a0db79-ffe1-44dd-97ec-f1b4e99e490c.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_66a0db79-ffe1-44dd-97ec-f1b4e99e490c.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 30747&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-781b"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:36 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5c3734bf-2e9&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/jquery.tagsinput.min.css"
+    path="/static/css/jquery.tagsinput.min.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="745"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="28e363f7-dcac-45a1-b442-6fa1c4bff402" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_28e363f7-dcac-45a1-b442-6fa1c4bff402.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_28e363f7-dcac-45a1-b442-6fa1c4bff402.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 745&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-2e9"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:36 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5c4f8af3-8061&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 28 Jan 2019 23:06:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/datatables/datatables.min.css"
+    path="/static/js/datatables/datatables.min.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="32865"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="15266e1f-d4a9-43dd-ab27-b70c09d45d15" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_15266e1f-d4a9-43dd-ab27-b70c09d45d15.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_15266e1f-d4a9-43dd-ab27-b70c09d45d15.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:36 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 32865&#xd;
+Last-Modified: Mon, 28 Jan 2019 23:06:27 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c4f8af3-8061"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:36 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="text/css"
+    eTag="&quot;5e555082-30130&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 25 Feb 2020 16:51:14 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/css/style.css"
+    path="/static/css/style.css" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="196912"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="cdd130af-f02e-4b2e-9d12-cb510703eb48" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_cdd130af-f02e-4b2e-9d12-cb510703eb48.css</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_cdd130af-f02e-4b2e-9d12-cb510703eb48.txt</requestContentFileDescription>
+    <header name="Accept" value="text/css,*/*;q=0.1"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="style"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:37 GMT&#xd;
+Content-Type: text/css&#xd;
+Content-Length: 196912&#xd;
+Last-Modified: Tue, 25 Feb 2020 16:51:14 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5e555082-30130"&#xd;
+Expires: Thu, 23 Apr 2020 13:21:37 GMT&#xd;
+Cache-Control: max-age=86400&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c3734bf-1538e&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/jquery.js" path="/static/js/jquery.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="86926" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="aec105e9-b164-42fe-91b7-97535ed32728" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_aec105e9-b164-42fe-91b7-97535ed32728</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_aec105e9-b164-42fe-91b7-97535ed32728.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:39 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 86926&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-1538e"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="6"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c3734bf-71c1&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/chosen.jquery.min.js"
+    path="/static/js/chosen.jquery.min.js" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="29121" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="558b8569-968b-4d01-8752-4f5d002d3a91" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_558b8569-968b-4d01-8752-4f5d002d3a91</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_558b8569-968b-4d01-8752-4f5d002d3a91.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:40 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 29121&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-71c1"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="9"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c3734bf-3dee4&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/jquery-ui.min.js"
+    path="/static/js/jquery-ui.min.js" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="253668" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="42fcf6d9-2248-419a-9d84-7e885426e8f7" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_42fcf6d9-2248-419a-9d84-7e885426e8f7</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_42fcf6d9-2248-419a-9d84-7e885426e8f7.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:40 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 253668&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-3dee4"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="11"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c3734bf-3cc1&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/wow.js" path="/static/js/wow.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="15553" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="5dfa768e-edad-4a8b-a21e-cd55d215c413" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_5dfa768e-edad-4a8b-a21e-cd55d215c413</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5dfa768e-edad-4a8b-a21e-cd55d215c413.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:40 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 15553&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-3cc1"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="12"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c3734bf-19ae&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/jquery.tagsinput.min.js"
+    path="/static/js/jquery.tagsinput.min.js" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="6574" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="9c2df139-08e6-4745-8710-5de55d0c493a" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_9c2df139-08e6-4745-8710-5de55d0c493a</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_9c2df139-08e6-4745-8710-5de55d0c493a.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:40 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 6574&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-19ae"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="13"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5c4f8af3-2ba3b&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 28 Jan 2019 23:06:27 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/datatables/datatables.min.js"
+    path="/static/js/datatables/datatables.min.js" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="178747" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="43664d5a-25db-4510-a6e9-e890225a1464" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_43664d5a-25db-4510-a6e9-e890225a1464</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_43664d5a-25db-4510-a6e9-e890225a1464.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:40 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 178747&#xd;
+Last-Modified: Mon, 28 Jan 2019 23:06:27 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c4f8af3-2ba3b"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="14"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
+<http-action actionType="1" contentType="image/jpeg"
+    eTag="&quot;5c3734bf-5eef6&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/img/bg-home-form.jpg"
+    path="/static/img/bg-home-form.jpg" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="16bee0e4-538a-4d01-ba7b-e383383f9163" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_16bee0e4-538a-4d01-ba7b-e383383f9163</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_16bee0e4-538a-4d01-ba7b-e383383f9163.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/static/css/style.css"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/jpeg&#xd;
+Content-Length: 388854&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-5eef6"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5c3734bf-13fe&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/img/prime_target_logo.png"
+    path="/static/img/prime_target_logo.png" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="0d0d63c6-3ed1-4643-8c89-8fd32046848b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0d0d63c6-3ed1-4643-8c89-8fd32046848b.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_0d0d63c6-3ed1-4643-8c89-8fd32046848b.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/png&#xd;
+Content-Length: 5118&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-13fe"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5c3734bf-1345&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/img/prime_target_logo_white.png"
+    path="/static/img/prime_target_logo_white.png" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="225ed530-be14-4bcd-a62d-141cb8ca24e2" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_225ed530-be14-4bcd-a62d-141cb8ca24e2.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_225ed530-be14-4bcd-a62d-141cb8ca24e2.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/png&#xd;
+Content-Length: 4933&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-1345"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/png"
+    eTag="&quot;5c3734bf-227e8&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Thu, 10 Jan 2019 12:04:15 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/img/bg_pattern.png"
+    path="/static/img/bg_pattern.png" postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="app.primetarget.tech" slaProfileEnabled="false"
+    uid="055fe8cb-dbd0-46be-abc9-d17a6ebf1f59" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_055fe8cb-dbd0-46be-abc9-d17a6ebf1f59.png</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_055fe8cb-dbd0-46be-abc9-d17a6ebf1f59.txt</requestContentFileDescription>
+    <header name="Accept" value="image/webp,image/apng,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/static/css/style.css"/>
+    <header name="Sec-Fetch-Dest" value="image"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:41 GMT&#xd;
+Content-Type: image/png&#xd;
+Content-Length: 141288&#xd;
+Last-Modified: Thu, 10 Jan 2019 12:04:15 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5c3734bf-227e8"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="application/javascript"
+    eTag="&quot;5e95063a-2ef9&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Tue, 14 Apr 2020 00:39:22 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/static/js/custom.js" path="/static/js/custom.js"
+    postType="2"
+    recordedArtifactZipFileName="team/vus/my@app/%resources%/recorded-artifacts/bc4ab309-8ef4-42a7-bb06-6169f194332a.zip"
+    recordedResponseCode="200"
+    refererUid="127a2616-9229-4e30-bb81-d10a1cb9af7e"
+    responseSize="12025" serverUid="app.primetarget.tech"
+    slaProfileEnabled="false" uid="69eb3ce1-5589-473d-b708-3775efcde835" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_69eb3ce1-5589-473d-b708-3775efcde835</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_69eb3ce1-5589-473d-b708-3775efcde835.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9,fr;q=0.8"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="csrftoken=8LStaJ7yRGbBBYvfpnB2GnB3Ldp7ttrWGVvV88EjnHMShk9YnoIMIDtFoXIf1Fry"/>
+    <header name="Host" value="app.primetarget.tech"/>
+    <header name="Referer" value="https://app.primetarget.tech/login/?next=/"/>
+    <header name="Sec-Fetch-Dest" value="script"/>
+    <header name="Sec-Fetch-Mode" value="no-cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx/1.14.0 (Ubuntu)&#xd;
+Date: Wed, 22 Apr 2020 13:21:48 GMT&#xd;
+Content-Type: application/javascript&#xd;
+Content-Length: 12025&#xd;
+Last-Modified: Tue, 14 Apr 2020 00:39:22 GMT&#xd;
+Connection: keep-alive&#xd;
+ETag: "5e95063a-2ef9"&#xd;
+Expires: Thu, 31 Dec 2037 23:55:55 GMT&#xd;
+Cache-Control: max-age=315360000&#xd;
+Accept-Ranges: bytes</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="15"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>
